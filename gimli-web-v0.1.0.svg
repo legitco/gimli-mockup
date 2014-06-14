@@ -16,8 +16,8 @@
       <text transform="matrix(1, 0, 0, 1, 704.165, 62.5)">
         <tspan x="-19.165" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#AAAAAA">svincent</tspan>
       </text>
-      <text transform="matrix(1, 0, 0, 1, 786.6, 52.5)">
-        <tspan x="-2.4" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">9</tspan>
+      <text transform="matrix(1, 0, 0, 1, 787.6, 52.5)">
+        <tspan x="-3.4" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">9</tspan>
       </text>
     </g>
     <g>
@@ -28,8 +28,8 @@
       <text transform="matrix(1, 0, 0, 1, 698.455, 102.5)">
         <tspan x="-13.455" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#AAAAAA">kelsin</tspan>
       </text>
-      <text transform="matrix(1, 0, 0, 1, 783.7, 92.5)">
-        <tspan x="-5.3" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">12</tspan>
+      <text transform="matrix(1, 0, 0, 1, 784.7, 92.5)">
+        <tspan x="-6.3" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">12</tspan>
       </text>
     </g>
     <g>
@@ -37,29 +37,29 @@
       <text transform="matrix(1, 0, 0, 1, 701.615, 127.5)">
         <tspan x="-16.615" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">brotkel</tspan>
       </text>
-      <text transform="matrix(1, 0, 0, 1, 786.6, 132.5)">
-        <tspan x="-2.4" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">2</tspan>
+      <text transform="matrix(1, 0, 0, 1, 787.6, 132.5)">
+        <tspan x="-3.4" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">2</tspan>
       </text>
     </g>
   </g>
   <g id="Layer_3">
-    <text transform="matrix(1, 0, 0, 1, 57.195, 462.5)">
-      <tspan x="-16.805" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">Simeon</tspan>
+    <text transform="matrix(1, 0, 0, 1, 58.195, 462.5)">
+      <tspan x="-17.805" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">Simeon</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 47.325, 287.5)">
-      <tspan x="-26.675" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">Christopher</tspan>
+    <text transform="matrix(1, 0, 0, 1, 48.325, 287.5)">
+      <tspan x="-27.675" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">Christopher</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 63.295, 162.5)">
-      <tspan x="-15.705" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">broktel</tspan>
+    <text transform="matrix(1, 0, 0, 1, 64.295, 162.5)">
+      <tspan x="-16.705" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">broktel</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 57.756, 174)">
-      <tspan x="-21.244" y="2" font-family="AvenirNext-Regular" font-size="8" fill="#676767">3 hours ago</tspan>
+    <text transform="matrix(1, 0, 0, 1, 58.756, 174)">
+      <tspan x="-22.244" y="2" font-family="AvenirNext-Regular" font-size="8" fill="#676767">3 hours ago</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 46.24, 299)">
-      <tspan x="-27.76" y="2" font-family="AvenirNext-Regular" font-size="8" fill="#676767">45 minutes ago</tspan>
+    <text transform="matrix(1, 0, 0, 1, 47.24, 299)">
+      <tspan x="-28.76" y="2" font-family="AvenirNext-Regular" font-size="8" fill="#676767">45 minutes ago</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 43.044, 476)">
-      <tspan x="-23.7" y="2" font-family="AvenirNext-Regular" font-size="8" fill="#676767">&lt; 1 minute ago</tspan>
+    <text transform="matrix(1, 0, 0, 1, 47.672, 476)">
+      <tspan x="-28.328" y="2" font-family="AvenirNext-Regular" font-size="8" fill="#676767">&lt; 1 minute ago</tspan>
     </text>
     <g>
       <text transform="matrix(1, 0, 0, 1, 331.75, 462.5)">
@@ -115,8 +115,8 @@
       <text transform="matrix(1, 0, 0, 1, 162.91, 184.816)">
         <tspan x="-62.91" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767">// my first program in C++</tspan>
       </text>
-      <text transform="matrix(1, 0, 0, 1, 160.51, 193.816)">
-        <tspan x="-60.51" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767">#include &lt;iostream&gt;</tspan>
+      <text transform="matrix(1, 0, 0, 1, 146.107, 193.816)">
+        <tspan x="-46.107" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767">#include &lt;iostream&gt;</tspan>
       </text>
       <text transform="matrix(1, 0, 0, 1, 124.504, 211.816)">
         <tspan x="-24.504" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767">int main()</tspan>
@@ -124,8 +124,8 @@
       <text transform="matrix(1, 0, 0, 1, 102.9, 220.816)">
         <tspan x="-2.9" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767">{</tspan>
       </text>
-      <text transform="matrix(1, 0, 0, 1, 208.518, 229.816)">
-        <tspan x="-108.518" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767"> std::cout &lt;&lt; "Hello World!";</tspan>
+      <text transform="matrix(1, 0, 0, 1, 170.111, 229.816)">
+        <tspan x="-70.111" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767"> std::cout &lt;&lt; "Hello World!";</tspan>
       </text>
       <text transform="matrix(1, 0, 0, 1, 102.9, 238.816)">
         <tspan x="-2.9" y="2" font-family="CourierNewPSMT" font-size="8" fill="#676767">}</tspan>
@@ -166,22 +166,28 @@
     <text transform="matrix(1, 0, 0, 1, 114.42, 14.57)">
       <tspan x="-14.42" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">Home</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 150.265, 14.57)">
-      <tspan x="-10.265" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">&gt;</tspan>
+    <text transform="matrix(1, 0, 0, 1, 143.83, 14.57)">
+      <tspan x="-3.83" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">&gt;</tspan>
     </text>
     <text transform="matrix(1, 0, 0, 1, 176.17, 14.57)">
       <tspan x="-16.17" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">legitco</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 220.265, 14.57)">
-      <tspan x="-10.265" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">&gt;</tspan>
+    <text transform="matrix(1, 0, 0, 1, 213.83, 14.57)">
+      <tspan x="-3.83" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">&gt;</tspan>
     </text>
     <text transform="matrix(1, 0, 0, 1, 265.505, 14.57)">
       <tspan x="-35.505" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">gimli-mock ups</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 408.672, 14.57)">
+      <tspan x="-74.005" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#1061A3">My example issue title</tspan>
     </text>
     <g>
       <path d="M730.128,14.57 C730.128,11.325 732.759,8.694 736.004,8.694 C739.249,8.694 741.88,11.325 741.88,14.57 C741.88,17.816 739.249,20.447 736.004,20.447 C732.759,20.447 730.128,17.816 730.128,14.57 z" fill="#F56356"/>
       <path d="M737.959,11.58 L735.009,11.58 L734.959,13.77 C735.112,13.717 735.274,13.677 735.444,13.65 C735.614,13.624 735.779,13.61 735.939,13.61 C736.272,13.61 736.579,13.664 736.859,13.77 C737.139,13.877 737.382,14.029 737.589,14.225 C737.796,14.422 737.956,14.657 738.069,14.93 C738.182,15.204 738.239,15.504 738.239,15.83 C738.239,16.17 738.182,16.485 738.069,16.775 C737.956,17.065 737.796,17.315 737.589,17.525 C737.382,17.735 737.134,17.9 736.844,18.02 C736.554,18.14 736.236,18.2 735.889,18.2 C735.376,18.2 734.942,18.084 734.589,17.85 C734.236,17.617 733.962,17.304 733.769,16.91 L734.419,16.62 C734.546,16.914 734.737,17.147 734.994,17.32 C735.251,17.494 735.536,17.58 735.849,17.58 C736.089,17.58 736.311,17.539 736.514,17.455 C736.717,17.372 736.892,17.255 737.039,17.105 C737.186,16.955 737.301,16.777 737.384,16.57 C737.467,16.364 737.509,16.14 737.509,15.9 C737.509,15.64 737.464,15.405 737.374,15.195 C737.284,14.985 737.161,14.807 737.004,14.66 C736.847,14.514 736.662,14.4 736.449,14.32 C736.236,14.24 736.002,14.2 735.749,14.2 C735.496,14.2 735.244,14.235 734.994,14.305 C734.744,14.375 734.506,14.47 734.279,14.59 L734.349,10.94 L737.959,10.94 L737.959,11.58 z" fill="#FBFBFB"/>
     </g>
+    <text transform="matrix(1, 0, 0, 1, 317.5, 14.57)">
+      <tspan x="-3.83" y="2.5" font-family="AvenirNext-Regular" font-size="10" fill="#000000">&gt;</tspan>
+    </text>
   </g>
   <defs>
     <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="409.863" y1="-0.624" x2="410.035" y2="30.4">
